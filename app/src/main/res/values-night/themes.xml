@@ -1,7 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.LocalFoodPrototip" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <style name="Theme.LocalFoodPrototip" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <!-- Status bar color. -->
+        <item name="colorPrimary">@color/vermelho</item>
+        <item name="colorSecondary">@color/laranja</item>
+        <item name="android:statusBarColor">@color/vermelho</item>
+        <!-- Customize your theme here. -->
     </style>
 </resources>
