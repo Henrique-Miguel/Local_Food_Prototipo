@@ -1,4 +1,4 @@
-package com.localfoodprototip.Activity
+package com.localfoodprototip
 
 import android.content.Intent
 import android.os.Bundle
