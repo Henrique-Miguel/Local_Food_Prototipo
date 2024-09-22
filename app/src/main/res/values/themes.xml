@@ -2,6 +2,10 @@
     <!-- Base application theme. -->
     <style name="Theme.LocalFoodPrototip" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/laranja</item>
+        <item name="colorSecondary">@color/vermelho</item>
+        <item name="colorOnPrimary">@color/blackLight</item>
+        <item name="android:statusBarColor">@color/laranja</item>
         <!-- Status bar color. -->
         <!-- Customize your theme here. -->
     </style>

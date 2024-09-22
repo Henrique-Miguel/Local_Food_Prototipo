@@ -5,6 +5,7 @@
         <!-- Status bar color. -->
         <item name="colorPrimary">@color/vermelho</item>
         <item name="colorSecondary">@color/laranja</item>
+        <item name="colorOnPrimary">@color/white</item>
         <item name="android:statusBarColor">@color/vermelho</item>
         <!-- Customize your theme here. -->
     </style>
